@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/uzumaki.hamdi" target="_blank">
   <img align="left" alt="Achref Essid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://linkedin.com/in/achref-essid-b4047b18b" target="_blank">
+<a href="https://linkedin.com/in/hamdiRH" target="_blank">
   <img align="left" alt="Achref Essid LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br />
+<!-- <br /> -->
 
 Hi, I'm [Hamdi Rahal], a Full Stack Javascript Developer 🚀 from Tunisia, passionate about javascript ecosystem. focused on creating modern web apps. Beside's programming, I enjoy playing video games.
 
