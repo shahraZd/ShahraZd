@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hamdiRH/HamdiRH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +23,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Achref Essid](https://achref-essid-portfolio.netlify.app), a Full Stack Javascript Developer 🚀 from Tunisia, passionate about javascript ecosystem. focused on creating modern web apps. Beside's programming, I enjoy playing video games.
+Hi, I'm [Hamdi Rahal], a Full Stack Javascript Developer 🚀 from Tunisia, passionate about javascript ecosystem. focused on creating modern web apps. Beside's programming, I enjoy playing video games.
 
   <img align="right" alt="GIF" src="https://github.com/ousszizou/ousszizou/blob/master/code.gif?raw=true" width="500" height="320" />
   
