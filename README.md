@@ -1,5 +1,5 @@
 <!--
-**hamdiRH/HamdiRH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shahraZd/ShahraZd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,25 +14,25 @@ Here are some ideas to get you started:
 -->
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.facebook.com/uzumaki.hamdi" target="_blank">
+<a href="https://www.facebook.com/uzumaki.shahraZd" target="_blank">
   <img align="left" alt="Achref Essid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://linkedin.com/in/hamdiRH" target="_blank">
+<a href="https://linkedin.com/in/shahraZd" target="_blank">
   <img align="left" alt="Achref Essid LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <!-- <br /> -->
 
-Hi, I'm [Hamdi Rahal], a Full Stack Javascript Developer 🚀 from Tunisia, passionate about javascript ecosystem. focused on creating modern web apps. Beside's programming, I enjoy playing video games.
+Hi, I'm [Shahrazed], a Full Stack Javascript Developer 🚀 from Tunisia, passionate about javascript ecosystem. focused on creating modern web apps. Beside's programming, I enjoy playing video games.
 
   <img align="right" alt="GIF" src="https://github.com/ousszizou/ousszizou/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :school management system:;
-- 🌱 I’m currently learning TypeScript and angular; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@HamdiRH](https://www.facebook.com/uzumaki.hamdi);
+<!--- 👨🏽‍💻 I’m currently working on something cool :school management system:;-->
+<!--- 🌱 I’m currently learning TypeScript and angular; -->
+<!--- 💬 Ask me about anything, I am happy to help; -->
+<!--- 📫 How to reach me: [@shahraZd](https://www.facebook.com/uzumaki.shahraZd);-->
 
 **Languages and Tools:**  
 
@@ -50,6 +50,6 @@ Hi, I'm [Hamdi Rahal], a Full Stack Javascript Developer 🚀 from Tunisia, pass
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hamdiRH&show_icons=true&theme=gotham" alt="hamdiRH" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shahraZd&show_icons=true&theme=gotham" alt="shahraZd" />
 
 </details>
